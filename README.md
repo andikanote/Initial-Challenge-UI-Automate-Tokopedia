@@ -28,10 +28,21 @@ If you're using npm to install Cypress, we support:
     2. npx cypress open //Open & run test with switching Browser/Test Runner
     3. npx cypress run // Open $ run test not open witching Browser/Test Runner
     
-    **Report**
+    # Report
     _Create Report with Mochawesome_
     1. Add Mochawesome to your project cypress
         npm install --save-dev mochawesome
+        
+    Directory Report :
+    - Cypress
+    -- Report
+    --- file report name.html
+    --- file report name.json
+    -- Screenshoot
+    --- ORDER STATUS.png
+    --- CHECKOUT OVERVIEW.png
+    -- Video
+    --- UI-Automation.js.mp4
     
   
     
