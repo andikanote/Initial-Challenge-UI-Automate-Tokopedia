@@ -28,6 +28,9 @@ If you're using npm to install Cypress, we support:
     2. npx cypress open //Open & run test with switching Browser/Test Runner
     3. npx cypress run // Open $ run test not open witching Browser/Test Runner
     
+    **Report**
+    _Create Report with Mochawesome_
+    
     
   
     
