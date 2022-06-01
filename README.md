@@ -30,7 +30,9 @@ If you're using npm to install Cypress, we support:
     
     **Report**
     _Create Report with Mochawesome_
-    
+    1. Add Mochawesome to your project cypress
+_    npm install --save-dev mochawesome
+_    
     
   
     
