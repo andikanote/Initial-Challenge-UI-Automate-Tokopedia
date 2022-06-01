@@ -1,0 +1,14 @@
+{
+    "chromeWebSecurity": false,
+    "projectId": "bketd9",
+    "reporter" : "mochawesome",
+    "reporterOptions" : {
+      "reportDir": "cypress/report/mochawesome",
+      "overwrite": true,
+      "html": true,
+      "json": true,
+      "timestamp": "mmddyyyy_HHMMss"
+
+    }
+    
+  }

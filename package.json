@@ -1,0 +1,26 @@
+{
+  "name": "ui-automate",
+  "version": "1.0.0",
+  "description": "Initial Challenge UI Automate Tokopedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andikanote/InitialChallenge-UI-Automate-Tokopedia.git"
+  },
+  "author": "Andika Prananto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andikanote/InitialChallenge-UI-Automate-Tokopedia/issues"
+  },
+  "homepage": "https://github.com/andikanote/InitialChallenge-UI-Automate-Tokopedia#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  },
+  "devDependencies": {
+    "@cypress/mocha-teamcity-reporter": "^1.0.0",
+    "mochawesome": "^7.1.3"
+  }
+}
