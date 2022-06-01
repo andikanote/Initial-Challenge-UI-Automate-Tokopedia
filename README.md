@@ -1,6 +1,9 @@
 # Initial Challenge UI-Automate Tokopedia
 
+Automation UI Tokopedia Challenge using Cypress javascript and reporting file using mochawesome
+
 **System requirements**
+
 Operating System
 
 Cypress is a desktop application that is installed on your computer. The desktop application supports these operating systems:
